@@ -1,2 +1,2 @@
 # react
-This repo represents my personal react.js projects as well as my professional projects.
+This repo contains both my personal and professional react.js projects.
